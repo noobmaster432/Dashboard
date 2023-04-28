@@ -2,6 +2,7 @@
 
 Welcome to the Greenstitch Dashboard repository! This project is a Full Stack web app, built with Next.js, Tailwind CSS, Chart.js and hosted on Vercel. The dashboard provides users with an intuitive interface to visualize their environmental impact data.
 
+
 ## 🎨 Features
 
 The Greenstitch Dashboard comes with the following features:
@@ -47,3 +48,8 @@ To get started with the Greenstitch Dashboard, please follow these steps:
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your web browser to view the Greenstitch Dashboard.
+
+
+## ScreenShot
+
+![dashboard-greenstitch vercel app_](https://user-images.githubusercontent.com/103204431/235222054-d8966474-f3a8-4dcd-a8c4-a20da017c3cb.png)
